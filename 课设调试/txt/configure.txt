@@ -1,0 +1,18 @@
+                                 游戏参数如下：
+              1:Original_Wall    = 10             2:Original_Castle = 25
+              3:Original_Monster = 10             4:Original_Brick  = 10
+              5:Original_Jewel   = 10             6:OriginalOutput  = 2
+              7:Original_CardNum = 6              8:RoundsSum       = 60
+              9:winrecouce       = 50             10:wincastle      = 50
+                                 游戏参数如下：
+              1:Original_Wall    = 10             2:Original_Castle = 25
+              3:Original_Monster = 10             4:Original_Brick  = 10
+              5:Original_Jewel   = 10             6:OriginalOutput  = 2
+              7:Original_CardNum = 6              8:RoundsSum       = 60
+              9:winrecouce       = 50             10:wincastle      = 50
+                                 游戏参数如下：
+              1:Original_Wall    = 10             2:Original_Castle = 25
+              3:Original_Monster = 10             4:Original_Brick  = 10
+              5:Original_Jewel   = 10             6:OriginalOutput  = 2
+              7:Original_CardNum = 6              8:RoundsSum       = 60
+              9:winrecouce       = 50             10:wincastle      = 50

@@ -1,0 +1,6 @@
+﻿  课设调试.cpp
+c:\users\党\desktop\课设调试\课设调试\课设调试.cpp(89): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\党\desktop\课设调试\课设调试\课设调试.cpp(240): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\党\desktop\课设调试\课设调试\课设调试.cpp(653): warning C4018: “>”: 有符号/无符号不匹配
+c:\users\党\desktop\课设调试\课设调试\课设调试.cpp(686): warning C4018: “<”: 有符号/无符号不匹配
+  课设调试.vcxproj -> C:\Users\党\Desktop\课设调试\Debug\课设调试.exe
